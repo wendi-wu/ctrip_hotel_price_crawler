@@ -54,8 +54,7 @@
 
    
 
-4&5  参数搞定之后剩下来就是cookie的处理了，这个地方可以用一个非常简单实用的方法。用selenium定时打开携程的网站，然后把cookie保存下来，定时(每半个小时)更新一次。这部分代码久不贴上来了，需要的可以Email我，我私法给你。上述破解参数的代码我已上传至
-
-[这里]: https://github.com/wendy-w/ctrip_hotel_price_crawler
+4&5  参数搞定之后剩下来就是cookie的处理了，这个地方可以用一个非常简单实用的方法。用selenium定时打开携程的网站，然后把cookie保存下来，定时(每半个小时)更新一次。这部分代码久不贴上来了，需要的可以Email我，我私法给你。上述破解参数的代码我已上传至 [github](https://github.com/wendy-w/ctrip_hotel_price_crawler)
 
 ，欢迎copy，如果有用，请给个star哈。
+
